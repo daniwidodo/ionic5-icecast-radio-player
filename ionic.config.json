@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-icecast-radio-player",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
